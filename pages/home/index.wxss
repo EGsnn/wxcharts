@@ -1,0 +1,20 @@
+.wrap{
+  background: #fff;
+  padding: 30rpx 20rpx ;
+}
+.title{
+  font-size: 32rpx;
+  font-weight: bold;
+  color:#666;
+}
+.lineCanvas ,
+.stock{
+  width: 700rpx;
+  height: 550rpx;
+  margin: 50rpx auto;
+}
+.foot{
+  font-size: 20rpx;
+  text-align: center
+
+}

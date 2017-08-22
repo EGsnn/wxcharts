@@ -1,0 +1,16 @@
+<!--index.wxml-->
+<view class="wrap">
+  <view class="title">折线图示例1：</view>
+  <view class="container">
+    <canvas class="stock" canvas-id="stockChart" />
+  </view>
+  <view class="title">折线图示例2：</view>
+  <view class="container">
+    <canvas class="lineCanvas" canvas-id="lineCanvas" />
+  </view>
+  <view class="title">折线图示例3：</view>
+  <view class="container">
+    <canvas class="lineCanvas" canvas-id="stockIndex" />
+  </view>
+  <view class="foot">最好用的小程序egchart更新中...</view>
+</view>

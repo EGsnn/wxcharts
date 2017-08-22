@@ -1,0 +1,16 @@
+{
+
+
+    "pages": [
+        "pages/home/index"
+    ],
+    "window": {
+        "backgroundTextStyle": "white",
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "egchart",
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "backgroundColor": "#F2f2f2",
+        "enablePullDownRefresh": true
+    },
+    "debug": true
+}
